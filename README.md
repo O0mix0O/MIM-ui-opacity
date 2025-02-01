@@ -49,3 +49,5 @@ The opacity setting will apply to the following UI elements:
 ---
 
 If you have any issues or suggestions, feel free to open an issue or contribute to the project!
+
+.
